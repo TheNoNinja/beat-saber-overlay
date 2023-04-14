@@ -1,6 +1,3 @@
-# Current situation
-I'm migrating to a new server. I'll remove this message when the update when through. Thanks for your understanding.
-
 # Beat Saber Overlay
 
 A web-based overlay for Beat Saber
@@ -14,25 +11,25 @@ A web-based overlay for Beat Saber
 
 ![image](https://i.imgur.com/WyTjdtd.png)
 
-3. Set the URL as `http://overlay.christiaanbrant.com/` (HTTP, not HTTPS!) and the size equal to your canvas size (1280x720, etc.)
+3. Set the URL as `https://overlay.theno.ninja/` (HTTP, not HTTPS!) and the size equal to your canvas size (1280x720, etc.)
 
 ![image](https://imgur.com/KxowYrw.png)
 
-4. (Optional) For 1080p canvases, add the `scale` modifier (ex. `http://overlay.christiaanbrant.com/?modifiers=scale`) to scale the overlay by 1.5x
+4. (Optional) For 1080p canvases, add the `scale` modifier (ex. `https://overlay.theno.ninja/?modifiers=scale`) to scale the overlay by 1.5x
 
 ## Options
 
 Options are added to the URL query as such:
 
 ```
-http://overlay.christiaanbrant.com/?modifiers=scale,rtl
+https://overlay.theno.ninja/?modifiers=scale,rtl
 ```
 
 ### `ip` and `port`
 
 Listen to events from another IP and/or port. Add it with a plus if you already have modifiers
 ```
-http://overlay.christiaanbrant.com/?modifiers=scale+ip=127.0.0.1
+https://overlay.theno.ninja/?modifiers=scale+ip=127.0.0.1
 ```
 
 ### `modifiers`
