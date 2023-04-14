@@ -11,7 +11,7 @@ A web-based overlay for Beat Saber
 
 ![image](https://i.imgur.com/WyTjdtd.png)
 
-3. Set the URL as `https://overlay.theno.ninja/` (HTTP, not HTTPS!) and the size equal to your canvas size (1280x720, etc.)
+3. Set the URL as `https://overlay.theno.ninja/` and the size equal to your canvas size (1280x720, etc.)
 
 ![image](https://imgur.com/KxowYrw.png)
 
